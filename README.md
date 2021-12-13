@@ -1,4 +1,5 @@
 #TranScape VR
+
 in cooperation with Anda Iosip, Center for Computational Biology, Julius-Maximilians University Würzburg)
 
 Nowadays RNA-seq is the norm for investigating transcriptome-wide gene expression. These data cover the expression of thousands of genes over many different tissues and conditions. Finding the biological story hidden in this massive amount of data is challenging and standard data analysis methods using 2D, non-interactive visualization are limiting and daunting. To upgrade to state-of-the-art technology, we developed TranScape VR, a new tool for visualizing transcriptomic landscapes in an immersive, explorative, holistic and entertaining Virtual Reality (VR) space.
