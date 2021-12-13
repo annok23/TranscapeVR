@@ -31,3 +31,9 @@ We immediately recognize the thick line between root and flower as well as betwe
 In the gene network mode, the links between genes and tissues provide a clear view of which genes belong to which tissue. Genes are connected to each of their host tissues by color-coded lines. Thus, the number of links connected to a gene represent the number of tissues that host it.
 One can activate links to all tissues at once or activate only links to selected tissues. This allows for investigation of shared genes between tissues as well as the specificity distribution in more detail.
 
+# Requirements
+- Unity version 2019
+- Valve Index VR Headset
+
+# Source Code
+The source code will be made public for open-source use beginning of 2022. Please contact us for further information. 
